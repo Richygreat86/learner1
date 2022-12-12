@@ -12,3 +12,4 @@ def greet(name):
                     
                         
 greet("Richard")
+Hi Richard welcome to Acada learning
